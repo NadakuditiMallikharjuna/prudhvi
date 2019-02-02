@@ -3,5 +3,8 @@ updated in server main
 update
 first commit
 second commit
+<<<<<<< HEAD
 thirdcommit
+=======
+>>>>>>> fc1f1fc... second commit
 d hai
